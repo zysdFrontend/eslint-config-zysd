@@ -1,6 +1,6 @@
 {
     "name": "eslint-config-zysd",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "中盈盛达前端项目eslint配置规则",
     "main": "index.js",
     "repository": {
