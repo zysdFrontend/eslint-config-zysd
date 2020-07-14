@@ -1,6 +1,6 @@
 {
     "name": "eslint-config-zysd",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "中盈盛达前端项目eslint配置规则",
     "main": "index.js",
     "repository": {
@@ -16,5 +16,13 @@
     "bugs": {
       "url": "https://github.com/zysdFrontend/eslint-config-zysd/issues"
     },
-    "homepage": "https://github.com/zysdFrontend/eslint-config-zysd#readme"
-  }
+    "homepage": "https://github.com/zysdFrontend/eslint-config-zysd#readme",
+    "devDependencies": {
+        "eslint": "^7.4.0",
+        "eslint-plugin-vue": "^7.0.0-alpha.9"
+    },
+    "peerDependencies": {
+        "eslint": ">=5.16.0",
+        "eslint-plugin-vue": ">=6.2.2"
+    }
+}
